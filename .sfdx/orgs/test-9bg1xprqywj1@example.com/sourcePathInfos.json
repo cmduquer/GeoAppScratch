@@ -5,7 +5,7 @@
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1550074798000,
+            "modifiedTime": 1550076016000,
             "changeTime": 1550074802924,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -20,7 +20,7 @@
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1550074801000,
+            "modifiedTime": 1550076017000,
             "changeTime": 1550074801833,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -32,29 +32,28 @@
     [
         "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
-            "modifiedTime": 1550075905000,
+            "modifiedTime": 1550076017000,
             "changeTime": 1550075905544,
-            "contentHash": "691dedcb09b0733c095bc4597fdf623fb9e7fddc"
+            "contentHash": "691dedcb09b0733c095bc4597fdf623fb9e7fddc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1550074580000,
-            "changeTime": 1550074580989,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 96,
+            "modifiedTime": 1550076017000,
+            "changeTime": 1550076017168,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
@@ -75,16 +74,15 @@
     [
         "/Users/cmduquer/Desktop/sfdx/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1550074808000,
-            "changeTime": 1550074813129,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 384,
+            "modifiedTime": 1550076016000,
+            "changeTime": 1550076017522,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "e3ca4d8d563c9042b72b53cbf749735d204c96ee"
         }
     ],
     [
@@ -259,40 +257,170 @@
     [
         "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1550075905000,
             "changeTime": 1550075905546,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1550075891388,
             "changeTime": 1550075891388,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1550075751763,
             "changeTime": 1550075753467,
-            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
+            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550076017000,
+            "changeTime": 1550076017188,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550075972527,
+            "changeTime": 1550075976816,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 155,
+            "modifiedTime": 1550076001354,
+            "changeTime": 1550076001354,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1550075972522,
+            "changeTime": 1550075976681,
+            "contentHash": "9cba73ac62a1355406862911981efd7e62639c62"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 129,
+            "modifiedTime": 1550076040459,
+            "changeTime": 1550076040459,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550075972528,
+            "changeTime": 1550075976841,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550075972527,
+            "changeTime": 1550075976804,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1550075972522,
+            "changeTime": 1550075976702,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550075972522,
+            "changeTime": 1550075976723,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmduquer/Desktop/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550075972524,
+            "changeTime": 1550075976801,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
